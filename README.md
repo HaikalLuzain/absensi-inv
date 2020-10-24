@@ -33,7 +33,7 @@
 
 ### Notes
     
-    You can only logged in after running seeder. After that login using this account:
+    You can only be logged in after running the seeder. After that log in using this account:
 
     email    : admin@gmail.com
     password : 12345678
