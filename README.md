@@ -36,4 +36,27 @@
 
     email    : admin@gmail.com
     password : 12345678
+
+
+### For Testing user check in/out
+    
+    Login with user account:
+
+    email    : user1@gmail.com
+    password : 12345678
+
+    email    : user2@gmail.com
+    password : 12345678
+
+    email    : user3@gmail.com
+    password : 12345678
+
+    .
+    .
+    .
+    .
+
+    email    : user10@gmail.com
+    password : 12345678
+
     
