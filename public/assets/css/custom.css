@@ -1,0 +1,13 @@
+.bg-login-image {
+    background: url("../img/login-bg.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.dropify-wrapper {
+  border-radius: .35rem;
+}
+
+.hr-primary{
+  border-top: 2px solid #4e73df
+}
